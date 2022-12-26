@@ -1,0 +1,1 @@
+The purpose of this project is to practice the combination of html representation and interpolation.
